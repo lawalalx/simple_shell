@@ -206,6 +206,9 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+## Disclaimer
+if you happen to use these repo for ALX we got `198%`
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
